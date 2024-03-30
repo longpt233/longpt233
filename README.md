@@ -1,4 +1,4 @@
-👋 Hi, study with me ? 
+👋 Hi, My name is Long.
 
 👀 I’m interested in Recommender System, Microservices, DevOps, Graph, and  Bigdata.
 
