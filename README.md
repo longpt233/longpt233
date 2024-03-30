@@ -1,4 +1,4 @@
-👋 Hi, give me a Star 😉. 
+👋 Hi, study with me ? 
 
 👀 I’m interested in Recommender System, Microservices, DevOps, Graph, and  Bigdata.
 
